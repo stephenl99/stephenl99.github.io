@@ -1,14 +1,14 @@
 
 
 const techList = [
-    { name: 'C++', logo: 'src/assets/CPP.png' },
-    { name: 'C', logo: 'src/assets/C.png' },
-    { name: 'Python', logo: 'src/assets/Python.png' },
-    { name: 'Java', logo: 'src/assets/Java.png' },
-    { name: 'Javascript', logo: 'src/assets/JavaScript.png' },
-    { name: 'Docker', logo: 'src/assets/Docker.png' },
-    { name: 'React', logo: 'src/assets/React.png' },
-    { name: 'VS Code', logo: 'src/assets/VSCode.png' },
+    { name: 'C++', logo: '/assets/CPP.png' },
+    { name: 'C', logo: '/assets/C.png' },
+    { name: 'Python', logo: '/assets/Python.png' },
+    { name: 'Java', logo: '/assets/Java.png' },
+    { name: 'Javascript', logo: '/assets/JavaScript.png' },
+    { name: 'Docker', logo: '/assets/Docker.png' },
+    { name: 'React', logo: '/assets/React.png' },
+    { name: 'VS Code', logo: '/assets/VSCode.png' },
 ];
 
 const TechStack = () => {

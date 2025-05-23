@@ -33,19 +33,19 @@ const timelineItems = [
         title: "FanDuel",
         date: "Summer 2025",
         description: ["Incoming SWE Intern at FanDuel"],
-        image: "src/assets/Fanduel.png"
+        image: "/assets/Fanduel.png"
     },
     {
         title: "Georgia Tech",
         date: "Graduating Spring 2026",
         description: ["CS 2340 TA", "Information and Intelligence Specializations", "Math Minor"],
-        image: "src/assets/Georgia_Tech_Yellow_Jackets_logo.svg.png"
+        image: "/assets/Georgia_Tech_Yellow_Jackets_logo.svg.png"
     },
     {
         title: "Winship Cancer Institute",
         date: "Summer 2024",
         description: ["Medical Robotics Research"],
-        image: "src/assets/emory-logo.png"
+        image: "/assets/emory-logo.png"
     }
 
 ]

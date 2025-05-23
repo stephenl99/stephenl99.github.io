@@ -1,5 +1,5 @@
 import {Image} from "react-bootstrap";
-import SelfImage from "../assets/SelfImage.jpeg";
+import SelfImage from "/assets/SelfImage.jpeg";
 import Typing from "./Typing.jsx";
 
 function Home() {

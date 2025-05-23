@@ -1,5 +1,5 @@
 import React from "react";
-import pdfFile from "/public/main.pdf"
+import pdfFile from "/assets/main.pdf"
 
 import { Document, Page, pdfjs } from 'react-pdf';
 import TechStack from "./TechStack.jsx";

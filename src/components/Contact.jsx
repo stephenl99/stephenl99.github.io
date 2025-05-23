@@ -1,5 +1,3 @@
-import TechStack from "./TechStack.jsx";
-import TimeLine from "./TimeLine.jsx";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 function Contact() {

@@ -13,7 +13,7 @@ body {
 @font-face
 {
     font-family: myFirstFont;
-    src: url('src/assets/Sublimation.ttf')
+    src: url('/assets/Sublimation.ttf')
 }
 .logo {
     color: var(--secondary-text) !important;
