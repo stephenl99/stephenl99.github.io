@@ -32,13 +32,13 @@ const timelineItems = [
     {
         title: "FanDuel",
         date: "Summer 2025",
-        description: ["Incoming SWE Intern at FanDuel"],
+        description: ["SWE Intern @ FanDuel", "Utilized React, Spring Boot, AWS",  "Raised user sign-up verification by 3%"],
         image: "/assets/Fanduel.png"
     },
     {
         title: "Georgia Tech",
-        date: "Graduating Spring 2026",
-        description: ["CS 2340 TA", "Information and Intelligence Specializations", "Math Minor"],
+        date: "Graduating Winter 2026",
+        description: ["Information and Intelligence Specializations", "Math Minor", "Datacenter parallelization research"],
         image: "/assets/Georgia_Tech_Yellow_Jackets_logo.svg.png"
     },
     {
