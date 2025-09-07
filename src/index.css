@@ -106,19 +106,24 @@ body {
     flex-direction: column;
 }
 .tech-stack-container {
+
     padding: 2rem;
     max-width: 1000px;
     margin: auto;
     text-align: center;
 }
-
+.tech-stack-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* This will center the h3 and the list based on content width */
+}
 .tech-list {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
     padding-left: 1.5rem; /* keeps the numbers aligned */
     list-style: decimal;
-    justify-content: flex-start;
+    justify-content: center;
 }
 
 .tech-item {
